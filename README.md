@@ -6,19 +6,11 @@ resources: 1
 
 # My Tanspose
 
-## Contents
-
-1. Objective
-2. About Group By
-3. Notes
-4. Bonus
-5. Resources
-
 ## Objective
 
 You will be building out Ruby's `#transpose` method. You'll be monkey patching the Array class to do this.
 
-## About Group By
+## About Transpose
 
 Ruby's `transpose` method takes no arguments. It assumes that the array it is called on is an array of arrays and transposes the rows and columns.
 
