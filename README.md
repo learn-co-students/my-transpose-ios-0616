@@ -4,7 +4,7 @@ languages: ruby
 resources: 1
 ---
 
-# My Tanspose
+# My Transpose
 
 ## Objective
 
