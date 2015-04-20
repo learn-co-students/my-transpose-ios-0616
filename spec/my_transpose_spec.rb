@@ -1,4 +1,4 @@
-describe "#my_group_by" do
+describe "#my_transpose" do
 
   let(:numbers) { [[1,2], [3,4], [5,6]] }
   let(:alphabet) { [["a", "d", "g"], ["b", "e", "h"], ["c", "f", "i"]] }
