@@ -23,3 +23,5 @@ You may not call on Ruby's `#transpose` method to accomplish this task.
 ## Resources
 
 * [Ruby's Transpose Method](http://ruby-doc.org/core-2.2.0/Array.html#method-i-transpose)
+
+<a href='https://learn.co/lessons/my-transpose' data-visibility='hidden'>View this lesson on Learn.co</a>
